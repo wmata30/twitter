@@ -11,4 +11,7 @@ Write an article.
 11. Check exam schedule. 
 12 . go to work
 13. wake up early
+
 14 Studying hardOO
+
+14. apply cherry_pick
