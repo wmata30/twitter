@@ -15,3 +15,8 @@ Write an article.
 14 Studying hardOO
 
 14. apply cherry_pick
+
+
+15. This is the first commit for cherry_picking
+16. The second commit for cherry_picking
+
