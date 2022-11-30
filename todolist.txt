@@ -9,14 +9,4 @@ Write an article.
 9. Practice chess openings.
 10. Solve chess puzzles.
 11. Check exam schedule. 
-12 . go to work
-13. wake up early
-
-14 Studying hardOO
-
-14. apply cherry_pick
-
-
-15. This is the first commit for cherry_picking
-16. The second commit for cherry_picking
 
